@@ -1,0 +1,27 @@
+[  {
+    "url": "https://11414.lwglxt.com/student/viewdoc_right?docid=此处为你文章的id&rate=YES",
+    "username": "your_username",
+    "password": "your_password",
+    "receiver": "your_email@example.com",
+    "comment": "张三",
+    "type": 1
+  },
+      {
+    "url": "https://11414.lwglxt.com/student/viewdoc_right?docid=此处为你文章的id&rate=YES",
+    "username": "your_username",
+    "password": "your_password",
+    "receiver": "your_email@example.com",
+    "comment": "李四",
+    "type": 2
+  },
+      {
+    "url": "https://11414.lwglxt.com/student/viewdoc_right?docid=此处为你文章的id&rate=YES",
+    "username": "your_username",
+    "password": "your_password",
+    "receiver": "your_email@example.com",
+    "comment": "王五",
+    "type": 3
+  },
+
+
+]
